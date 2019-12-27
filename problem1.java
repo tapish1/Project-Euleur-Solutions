@@ -9,7 +9,7 @@ package projecteuleur;
  *
  * @author tapishjain
  */
-public class Projecteuleur {
+public class problem1 {
 
     /**
      * @param args the command line arguments
